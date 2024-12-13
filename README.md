@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Daman!
 - 👀 I’m interested in coding, research and connecting with people.
 - 🌱 I’m currently learning Management Information Systems
-- 📫 @dmnlhq on instagram
 
 
 <!---
